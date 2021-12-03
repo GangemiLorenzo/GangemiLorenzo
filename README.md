@@ -1,4 +1,4 @@
-# hey there, i'm [**Lorenzo**](https://lorenzogangemi.netlify.app/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hey there, i'm [**Lorenzo**](https://lorenzogangemi.netlify.app/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a mobile developer from Torino, Italy. I'm currently working as a **Software Engineer** at [**PatchAi**](https://www.patchai.io/) and I'm a computer science student at [**Politecnico di Torino**](https://www.polito.it/).
 
