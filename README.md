@@ -1,7 +1,5 @@
 # hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 ## Hi, i'm [**Lorenzo Gangemi**](https://lorenzogangemi.netlify.app/)
 
 I'm a mobile developer from Torino, Italy. I'm currently working as a **Software Engineer** at [**PatchAi**](https://www.patchai.io/) and I'm a computer science student at [**Politecnico di Torino**](https://www.polito.it/).
