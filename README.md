@@ -40,8 +40,8 @@ In my spare time I like to go out for a **beer** or play a game of **rocket leag
   
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gangemilorenzo&show_icons=true&theme=tokyonight&title_color=e70d82&text_color=18e7c4&locale=en&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gangemilorenzo&show_icons=true&theme=tokyonight&bg_color=22272E&title_color=e70d82&text_color=18e7c4&locale=en&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gangemilorenzo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&sideLabels=e70d82&dates=18e7c4&sideNums=18e7c4&currStreakNum=18e7c4&currStreakLabel=e70d82&fire=e70d82&ring=e70d82&stroke=1A1B27)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gangemilorenzo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&sideLabels=e70d82&dates=18e7c4&sideNums=18e7c4&currStreakNum=18e7c4&currStreakLabel=e70d82&fire=e70d82&ring=e70d82&stroke=22272E)
 
-![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs?username=gangemilorenzo&show_icons=true&theme=tokyonight&title_color=e70d82&text_color=18e7c4&locale=en&hide_border=true)
+![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs?username=gangemilorenzo&show_icons=true&theme=tokyonight&bg_color=22272E&title_color=e70d82&text_color=18e7c4&locale=en&hide_border=true)
