@@ -101,8 +101,8 @@ In my spare time I like to go out for a **beer** or play a game of **rocket leag
 
 ## Github Stats 📈
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gangemilorenzo&show_icons=true&theme=tokyonight&bg_color=22272E&title_color=e70d82&text_color=18e7c4&locale=en&hide_border=true" alt="Lorenzo's GitHub Stats" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=gangemilorenzo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&sideLabels=e70d82&dates=18e7c4&sideNums=18e7c4&currStreakNum=18e7c4&currStreakLabel=e70d82&fire=e70d82&ring=e70d82&stroke=22272E" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gangemilorenzo&show_icons=true&bg_color=22272E&title_color=52E5A3&text_color=3FCFFD&locale=en&hide_border=true" alt="Lorenzo's GitHub Stats" />
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=gangemilorenzo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&sideLabels=3FCFFD&dates=52E5A3&sideNums=52E5A3&currStreakNum=52E5A3&currStreakLabel=3FCFFD&fire=3FCFFD&ring=3FCFFD&stroke=22272E" />
   
 </div>
 
