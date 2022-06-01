@@ -1,7 +1,7 @@
 <div align="center">
   
 <img src="https://github.com/GangemiLorenzo/GangemiLorenzo/blob/main/memoji.png" width="250px">
-<h1 align="center">Hey there, i'm Lorenzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hey there, i'm Lorenzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></h1>
 
 
 Currently working as a **Software Engineer** at [**PatchAi**](https://www.patchai.io/) 
