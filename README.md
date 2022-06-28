@@ -4,7 +4,7 @@
 <h1 align="center">Hey there, i'm Lorenzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></h1>
 
 
-Currently working as a **Software Engineer** at [**PatchAi**](https://www.patchai.io/) 
+Currently working as a **Software Engineer** at [**AliraHealth**](https://alirahealth.com/) 
 
 Computer science student at [**Politecnico di Torino**](https://www.polito.it/).
 
