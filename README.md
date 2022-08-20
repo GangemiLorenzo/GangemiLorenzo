@@ -105,6 +105,8 @@ In my spare time I like to go out for a **beer** or play a game of **rocket leag
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=gangemilorenzo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&sideLabels=3FCFFD&dates=52E5A3&sideNums=52E5A3&currStreakNum=52E5A3&currStreakLabel=3FCFFD&fire=3FCFFD&ring=3FCFFD&stroke=22272E" />
 
 ![](https://hit.yhype.me/github/profile?user_id=26723808)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
   
 </div>
 
