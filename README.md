@@ -22,7 +22,8 @@ In my spare time I like to go out for a **beer** or play a game of **rocket leag
 <div align="center">
 
 ## Connect with me 📝
-
+  
+<a href="https://twitter.com/LorenzoGangemi_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="6769331" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lorenzo-gangemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lorenzo-gangemi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6769331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6769331" height="30" width="40" /></a>
  
