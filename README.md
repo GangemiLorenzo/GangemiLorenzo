@@ -9,7 +9,7 @@ Most of my skills are in **mobile development**, but I've always been passionate
 I currently spend most of my time programming in **Flutter**, but in the past I have worked with native **Android Java** and **Vue.js**.
 I had the chance to learn **Node.js** and **Go**. 📱💻
 
-I consider myself a **blockchain enthusiast**, I spend some time every day managing my little Eth GPU miner ⛏️
+I consider myself a **blockchain enthusiast**, I spend some time every day managing my little miners ⛏️
 
 In my spare time I like to go out for a **beer** or play a game of **rocket league** 🍺
 
