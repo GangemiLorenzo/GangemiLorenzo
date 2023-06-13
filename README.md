@@ -2,16 +2,26 @@
   
 <img src="https://github.com/GangemiLorenzo/GangemiLorenzo/blob/main/memoji.png" width="250px">
 <h1 align="center">Hey there, i'm Lorenzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></h1>
+  
+### Software Engineer at [**YoungPlatform**](https://youngplatform.com/).</br>
+### Software student at [**Politecnico di Torino**](https://www.polito.it/).
 
-Computer science student at [**Politecnico di Torino**](https://www.polito.it/).
+I'm a Software Engineer, specialized in Flutter and Dart for mobile development. 📱 </br>
+I thrive in dynamic and challenging startup environments where my passion for creating efficient, user-centric mobile applications truly shines. 🚀
 
-Most of my skills are in **mobile development**, but I've always been passionate about what's innovative in the tech field.
-I currently spend most of my time programming in **Flutter**, but in the past I have worked with native **Android Java** and **Vue.js**.
-I had the chance to learn **Node.js** and **Go**. 📱💻
+### Skills 🔧
 
-I consider myself a **blockchain enthusiast**, I spend some time every day managing my little miners ⛏️
+**Flutter & Dart**: Expert in leveraging Flutter and Dart to develop high-quality mobile applications. </br>
+**Go**: Proficient in building scalable and robust microservices with Go. 
 
-In my spare time I like to go out for a **beer** or play a game of **rocket league** 🍺
+### Blockchain Interest ⛏️
+
+I'm immersed in the world of blockchain technology, operating nodes and managing a small crypto mining operation on the side, keeping myself in tune with emerging trends. 
+
+### Hobbies 🎮
+
+When I'm not in front of a code editor, you can find me enjoying a good beer 🍺 or engaging in a match of Rocket League. 
+
 
 </div>
 <br/>
@@ -38,30 +48,12 @@ In my spare time I like to go out for a **beer** or play a game of **rocket leag
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-  </a> 
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>  
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
 </p>
 
 <p>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a> 
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
@@ -87,8 +79,6 @@ In my spare time I like to go out for a **beer** or play a game of **rocket leag
   <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=gangemilorenzo&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E&sideLabels=3FCFFD&dates=52E5A3&sideNums=52E5A3&currStreakNum=52E5A3&currStreakLabel=3FCFFD&fire=3FCFFD&ring=3FCFFD&stroke=22272E" />
 
 ![](https://hit.yhype.me/github/profile?user_id=26723808)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
   
 </div>
 
