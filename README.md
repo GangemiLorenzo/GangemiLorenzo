@@ -4,7 +4,6 @@
 <h1 align="center">Hey there, I'm Lorenzo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></h1>
   
 ### Software Engineer at [**RedBull**](https://redbull.com/).</br>
-### Software student at [**Politecnico di Torino**](https://www.polito.it/).
 
 I'm a Software Engineer, specialized in Flutter and Dart for mobile development. 📱 </br>
 I thrive in dynamic and challenging startup environments where my passion for creating efficient, user-centric mobile applications truly shines. 🚀
